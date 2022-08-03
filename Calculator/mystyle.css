@@ -1,0 +1,71 @@
+body {
+    padding: 0;
+    margin: 0;
+
+    background-color:black;
+  }
+
+  .calculator {
+    position: fixed;
+    text-align: center;
+    border-radius: 20px;
+    width: 300px;
+    height: 420px;
+    padding-top: 20px;
+    padding-bottom: 100px;
+    transition: 2.5px;
+    margin: 10% 20% 50% 10%;
+    font-size: 20px;
+    color: black;
+    box-shadow: 5px 3px 30px #7E85D5;
+
+
+  }
+
+  #display {
+    top: 30%;
+    width: 280px;
+    height: 80px;
+    border-radius: 20px;
+    border: none;
+    color: white;
+    font-size: 30px;
+    font-family: sans-serif;
+    background-color: transparent;
+    box-shadow: 2px 2px 5px #595A62, -2px -2px 4px #9C949A;
+  }
+
+  .btnDesign {
+    width: 50px;
+    height: 50px;
+    border-radius: 20px;
+    margin: -1;
+    font-family: sans-serif;
+    font-weight: 200px;
+    border: none;
+    box-shadow: 2px 2px 3px #898CB5, -2px -2px 3px #F78EE3;
+
+  }
+
+  .OperatorDesign {
+    width: 50px;
+    height: 50px;
+    border-radius: 20px;
+    margin: -1;
+    font-family: sans-serif;
+    font-weight: 200px;
+    border: none;
+    box-shadow: 2px 2px 3px #898CB5, -2px -2px 3px #F78EE3;
+
+  }
+
+  .main-design {
+    width: 70px;
+    height: 50px;
+    border-radius: 20px;
+    margin: -1;
+    font-family: sans-serif;
+    font-weight: 200px;
+    border: none;
+    box-shadow: 2px 2px 3px #898CB5, -2px -2px 3px #F78EE3;
+  }
